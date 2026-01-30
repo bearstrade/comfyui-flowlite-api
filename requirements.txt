@@ -1,0 +1,2 @@
+# Pillow is already included in ComfyUI
+# No additional dependencies required

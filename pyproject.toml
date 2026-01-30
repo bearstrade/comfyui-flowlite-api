@@ -1,0 +1,25 @@
+[project]
+name = "comfyui-flowlite-api"
+version = "1.0.0"
+description = "FlowLite API Plugin for ComfyUI - fast catalog and image compression endpoints"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "FlowLite Team"}
+]
+keywords = ["comfyui", "flowlite", "api", "plugin", "compression"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/aspect-build/comfyui-flowlite-api"
+Repository = "https://github.com/aspect-build/comfyui-flowlite-api"
